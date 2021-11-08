@@ -6,12 +6,7 @@
     "url": "https://github.com/notion-enhancer/notion-repackaged/releases/download/v2.0.16-5/Notion-Enhanced-2.0.16-5-win.zip",
     "hash": "64c44df9c39697a99687b0fc15fb19e5ee9d289db19f9e1e061695c1ef94155c",
     "bin": "Notion Enhanced.exe",
-    "shortcuts": [
-        [
-            "Notion Enhanced.exe",
-            "Notion"
-        ]
-    ],
+    "shortcuts": [["Notion Enhanced.exe", "Notion"]],
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/notion-enhancer/notion-repackaged/releases/download/v$version/Notion-Enhanced-$version.zip"
